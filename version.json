@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "releaseDate": "2026-09-20",
-  "downloadUrl": "https://github.com/gossipred/jig-standalone-distribution/releases/tag/v1.2.4",
-  "releaseNotes": "Branded Aura Studio icon on every window, and Windows 11 24H2+ machine ID detection fix. Update channel moved to the distribution repository.",
-  "releaseNotesZh": "所有視窗改顯示 Aura Studio 品牌圖示；修正 Windows 11 24H2 以後的機器碼偵測；更新檢查改由發佈 repo 提供。"
+  "downloadUrl": "https://github.com/gossipred/jig-standalone-distribution/releases/tag/v1.2.5",
+  "releaseNotes": "Jig No. prefix picker (JA / TP or your own AB-CD), letters or digits allowed in the first two parts, and a trial banner fix.",
+  "releaseNotesZh": "編號前綴可下拉選 JA／TP 或自行輸入 AB-CD，前兩段可為英文字母或數字，並修正試用橫幅。"
 }
