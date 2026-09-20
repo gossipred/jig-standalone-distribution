@@ -1,0 +1,7 @@
+{
+  "version": "1.2.3",
+  "releaseDate": "2026-09-20",
+  "downloadUrl": "https://github.com/gossipred/jig-standalone/releases/tag/v1.2.3",
+  "releaseNotes": "Fix: the branded Aura Studio icon now appears on every window (title bar, taskbar, dialogs and alerts) instead of the default Java icon.",
+  "releaseNotesZh": "修正：所有視窗（標題列、工作列、對話框與警示框）都改顯示 Aura Studio 品牌圖示，不再是 Java 預設圖示。"
+}
