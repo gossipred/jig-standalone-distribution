@@ -1,7 +1,7 @@
 {
-  "version": "1.2.5",
-  "releaseDate": "2026-09-20",
-  "downloadUrl": "https://github.com/gossipred/jig-standalone-distribution/releases/tag/v1.2.5",
-  "releaseNotes": "Jig No. prefix picker (JA / TP or your own AB-CD), letters or digits allowed in the first two parts, and a trial banner fix.",
-  "releaseNotesZh": "編號前綴可下拉選 JA／TP 或自行輸入 AB-CD，前兩段可為英文字母或數字，並修正試用橫幅。"
+  "version": "1.3.0",
+  "releaseDate": "2026-09-22",
+  "downloadUrl": "https://github.com/gossipred/jig-standalone-distribution/releases/tag/v1.3.0",
+  "releaseNotes": "Fixed: attachment Open could silently do nothing on some machines; now uses the OS's own open command, with Choose App / Reveal File when there's no default app (e.g. .dwg, .step). Uploads now show progress and a completion confirmation. App version shown on login and main screens; jigs with attachments show a paperclip count in the list.",
+  "releaseNotesZh": "修復：附件「Open」在部分電腦上可能沒反應；改用系統原生開啟方式，沒有預設程式時（如 .dwg、.step）可選擇程式開啟或顯示檔案位置。上傳附件現在會顯示進度與完成提示。登入頁與主畫面顯示版本號，治具列表有附件會顯示迴紋針數量。"
 }
